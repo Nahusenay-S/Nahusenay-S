@@ -1,7 +1,7 @@
 <!-- TYPEWRITER FLOATING BANNER -->
 <p align="center">
   <a href="https://github.com/Nahusenay-S">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=70&lines=Nahusenay+Simegn;Software+Engineering+Student;Android+Developer+(Kotlin);Backend+%26+AI+Learner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=70&lines=Nahusenay+Simegn;Software+Engineer;Android+Developer+(Kotlin);Backend+%26+AI+Learner" />
   </a>
 </p>
 
