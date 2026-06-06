@@ -1,12 +1,12 @@
-<!-- HEADER -->
+<!-- TYPEWRITER FLOATING BANNER -->
 <p align="center">
   <a href="https://github.com/Nahusenay-S">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=70&lines=Nahusenay+Simegn;Final+Year+Software+Engineering+Student;Android+Developer;Backend+%26+AI+Learner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=70&lines=Nahusenay+Simegn;Software+Engineering+Student;Android+Developer+(Kotlin);Backend+%26+AI+Learner" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Building practical software systems and improving problem-solving skills through real projects</strong>
+  <strong>Building practical, scalable, and real-world software systems</strong>
 </p>
 
 ---
@@ -14,10 +14,10 @@
 # 💫 About Me
 
 - 🎓 Final year Software Engineering student  
-- 📱 Android developer (Kotlin + Java)  
-- 🌐 Interested in backend systems and APIs  
-- 🤖 Learning machine learning fundamentals  
-- ⚙️ Focused on improving software design & clean code  
+- 📱 Android Developer (Kotlin-focused)  
+- 🌐 Backend API & system design learner  
+- 🤖 Exploring Machine Learning fundamentals  
+- ⚙️ Focused on clean architecture and problem solving  
 - 🌍 Based in Ethiopia  
 - 📫 Contact: senaysimegn30@gmail.com  
 
@@ -25,34 +25,50 @@
 
 # 🧠 Tech Stack
 
-### Languages
-C++, Java, Kotlin, Python, JavaScript
+### Core Languages
+Java, Kotlin, Python, TypeScript, PHP, C++, .NET (C#)
 
-### Mobile
-Android (Jetpack Compose, XML)
+### Android Development
+- Kotlin
+- Android Studio
+- Jetpack (learning phase)
 
-### Backend
-Node.js, Express.js
+### Backend & APIs
+- Node.js
+- Express.js
+- .NET Web APIs
+- RESTful APIs
 
-### Database
-MySQL, PostgreSQL, Firebase
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- Firebase
 
-### ML Basics
-NumPy, Pandas, Scikit-learn
+### Testing & Tools
+- Postman (API testing)
+- k6 (performance testing)
+- Git & GitHub
+- Vercel
+
+### AI / Data Basics
+- NumPy
+- Pandas
+- Scikit-learn
 
 ---
 
 # 📌 Featured Projects
 
-### 📱 Android Projects
+### 📱 Android Development
 - Expense Tracker App (Kotlin + Room DB)
-- Student Management System (Firebase Auth + CRUD)
+- Student Management App (Firebase Auth + CRUD)
 
-### 🌐 Networking / Systems
+### 🌐 Systems / Networking
 - Hotel Network Design (Cisco Packet Tracer)
 
-### 🤖 ML Project
-- Student Performance Prediction (Python + ML basics)
+### 🤖 Machine Learning
+- Student Performance Predictor (Python + ML basics)
 
 ---
 
@@ -65,18 +81,19 @@ NumPy, Pandas, Scikit-learn
 
 ---
 
-# 🏆 Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nahusenay-S&theme=tokyonight" />
-</p>
-
----
-
 # ☕ Support
 If you like my work, support me ☕
 
 PayPal: https://paypal.me/yourlink
+
+---
+
+# 🌐 Socials
+
+- 💼 LinkedIn: Nahusenay Simegn  
+- 🐦 X (Twitter): @DevSenayPro  
+- 📸 Instagram: @stoiclord  
+- 💬 Discord: devsenay  
 
 ---
 
